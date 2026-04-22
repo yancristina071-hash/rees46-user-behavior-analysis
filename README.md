@@ -7,6 +7,7 @@
 ## 项目成果展示
 
 - **[Tableau 交互式看板（Story 模式）](https://public.tableau.com/shared/34T6RQS35?:display_count=n&:origin=viz_share_link)**
+- **[企业日常经营看板](https://htmlpreview.github.io/?https://raw.githubusercontent.com/yancristina071-hash/rees46-user-behavior-analysis/main/REES46_%E6%97%A5%E5%B8%B8%E7%9C%8B%E6%9D%BF.html)**
 - **[飞书版电商用户行为分析报告](https://my.feishu.cn/wiki/CH35wMNtYi285skk0TycgntAnfd?from=from_copylink)**
 
 ## 项目背景
